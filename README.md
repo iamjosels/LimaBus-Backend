@@ -2,8 +2,6 @@
 
 Backend del proyecto **LimaBus**, una plataforma de transporte que permite registrar, listar, filtrar y eliminar rutas de buses dentro de Lima Metropolitana. Este servicio está desarrollado en **Laravel** y expone una API RESTful para ser consumida por el frontend desarrollado en React.
 
-![LimaBus Backend](./ea466cf7-c068-42d9-8721-aadb6462478e.png)
-
 ---
 
 ## ⚙️ Tecnologías Utilizadas
