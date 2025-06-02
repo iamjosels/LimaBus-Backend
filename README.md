@@ -95,10 +95,13 @@ Las rutas están gestionadas por `RouteController`, que contiene la lógica para
 [
   {
     "id": 1,
-    "origin": "Miraflores",
-    "destination": "San Isidro",
+    "nombre": "Ruta 101",
+    "punto_inicio": "Miraflores",
+    "punto_fin": "San Isidro",
     "distance_km": 3.2,
-    "duration_min": 20
+    "tiempo_estimado": "00:45:00",
+    "created_at": "2025-06-02T00:26:35.000000Z",
+    "updated_at": "2025-06-02T00:26:35.000000Z"
   },
   ...
 ]
